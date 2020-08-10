@@ -1,2 +1,2 @@
 # Coursera_Capstone
-setting up first repository
+Project of IBM DATASCIENCE Specialisation on Coursera
